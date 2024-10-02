@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/baseline_home_24"
+        android:visible="true"
+        app:showAsAction="always"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/navigation_Fav"
+        android:icon="@drawable/baseline_favorite_24"
+        app:showAsAction="always"
+        android:title="Favorite" />
+
+</menu>
+
+
+
